@@ -10,6 +10,10 @@ The project compares three modelling approaches using the same engineered featur
 
 The focus is not only predictive performance, but also data preparation, generalisation, interpretability and model judgement.
 
+## Live Demo
+
+[Open the Streamlit Project](https://credit-risk---default-project-tra3rxzz3srlwlljcvb7zt.streamlit.app/)
+
 ## Data
 
 The project uses the Home Credit Default Risk dataset.
