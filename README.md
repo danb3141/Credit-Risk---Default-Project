@@ -12,7 +12,7 @@ The focus is not only predictive performance, but also data preparation, general
 
 ## Live Demo
 
-[Project Hosted on Streamlit](https://credit-risk---default-project-tra3rxzz3srlwlljcvb7zt.streamlit.app/)
+[Project Hosted on Streamlit](https://credit-risk---default-project-vyysd3cn6bhrebczdfyxt5.streamlit.app/)
 
 ## Data
 
