@@ -10,36 +10,6 @@ The project compares three modelling approaches using the same engineered featur
 
 The focus is not only predictive performance, but also data preparation, generalisation, interpretability and model judgement.
 
-## Project Structure
-
-```text
-home-credit-risk/
-|
-|-- data/
-|   `-- raw/                    # Local data only - not committed to Git
-|
-|-- notebooks/
-|   |-- 01_exploration.ipynb
-|   `-- 02_model_experiments.ipynb
-|
-|-- src/
-|   |-- data_engineering.py
-|   |-- logistic_model.py
-|   |-- lightgbm_model.py
-|   `-- neural_network.py
-|
-|-- outputs/
-|   |-- model_results.csv
-|   |-- logistic_coefficients.csv
-|   |-- lightgbm_importance.csv
-|   `-- test_predictions.csv
-|
-|-- app.py
-|-- requirements.txt
-|-- README.md
-`-- .gitignore
-```
-
 ## Data
 
 The project uses the Home Credit Default Risk dataset.
